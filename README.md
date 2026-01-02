@@ -27,14 +27,16 @@ It is created for learning and understanding core Docker concepts such as **Dock
 
 ## 📂 Project Structure
 
+```
 docker-testapp/
-│
 ├── Dockerfile
-├── docker-compose.yml / mongodb.yaml
+├── mongodb.yaml
 ├── server.js
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
+
 
 
 ---
